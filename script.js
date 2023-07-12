@@ -2,6 +2,8 @@ function oload(){
 
   document.getElementById("putin").style.display = "none";
   document.getElementById("robux").style.display = "block";
+  
+  document.getElementById("putins").innerHTML = "You Got Putin'd";
 }
 function myFunction() {
   // Get the text field
